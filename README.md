@@ -1,1 +1,0 @@
-This is an example app which is built on Angular and node js.
